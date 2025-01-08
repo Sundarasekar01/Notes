@@ -1,7 +1,8 @@
 ```
 https://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@github.com/Sundarasekar01/Notes.git
 ```
-
+khbknj
+ , , 
 
 `Java variables are essentially containers for storing data values. They can hold different types of data, such as integers, characters, or floating-point numbers. Here's a quick rundown:`
 
